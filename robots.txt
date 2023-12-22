@@ -1,0 +1,129 @@
+﻿User-Agent: *
+Allow: /index.php
+Disallow: /*
+Disallow: /*?
+
+
+#AdsBot
+User-agent: AdsBot-Google
+Disallow: /*
+
+
+User-agent: Googlebot
+Disallow: /*
+
+
+User-agent: Googlebot-Image
+Disallow: /*
+
+
+User-agent: APIs-Google
+Disallow: /*
+
+
+User-agent: Mediapartners-Google
+Disallow: /*
+
+
+User-agent: AdsBot-Google-Mobile
+Disallow: /*
+
+
+User-agent: Googlebot-News
+Disallow: /*
+
+
+User-agent: Googlebot-Video
+Disallow: /*
+
+
+User-agent: FeedFetcher-Google
+Disallow: /*
+
+
+User-agent: Google-Read-Aloud
+Disallow: /*
+
+
+User-agent: DuplexWeb-Google
+Disallow: /*
+
+
+User-agent: Storebot-Google
+Disallow: /*
+
+
+User-agent: Slurp
+Disallow: /*
+
+
+User-agent: Twitterbot
+Disallow: /*
+
+
+User-agent: facebookexternalhit
+Disallow: /*
+
+
+User-agent: msnbot
+Disallow: /*
+
+
+User-agent: Applebot
+Disallow: /*
+
+
+User-agent: baiduspider
+Disallow: /*
+
+
+User-agent: bingbot
+Disallow: /*
+
+
+User-agent: Bingbot
+Disallow: /*
+
+
+User-agent: LinkedInbot
+Disallow: /*
+
+
+User-agent: Naverbot
+Disallow: /*
+
+
+User-agent: Pinterestbot
+Disallow: /*
+
+
+User-agent: seznambot
+Disallow: /*
+
+
+User-agent: teamo
+Disallow: /*
+
+
+User-agent: TelegramBot
+Disallow: /*
+
+
+User-agent: Yeti
+Disallow: /*
+
+
+User-agent: Discordbot
+Disallow: /*
+
+
+User-agent: Yandex
+Disallow: /*
+
+
+User-agent: ia_archiver
+Disallow: /
+
+
+User-agent: psbot
+Disallow: /
